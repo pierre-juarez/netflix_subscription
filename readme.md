@@ -2,7 +2,7 @@
 
 _Netflix subscription page, frontend only.💪_
 
-I leave you here a demo: <a href="https://pierre-juarez.github.io/netflix_subscription_page/" target="_blank">https://pierre-juarez.github.io/netflix_subscription_page/</a>
+I leave you here a demo: <a href="https://pierre-juarez.github.io/netflix_subscription/" target="_blank">https://pierre-juarez.github.io/netflix_subscription/</a>
 
 ## Desktop Version
 
